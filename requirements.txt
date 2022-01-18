@@ -42,7 +42,7 @@ google-auth
 google-auth-oauthlib
 google-pasta
 grpcio
-h5py=
+h5py
 idna
 ipykernel
 ipython
